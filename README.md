@@ -8,7 +8,6 @@
 > **A Full-Stack AI Application that visualizes state-space search algorithms to solve a 3D Rubik's Cube in real-time.**
 
 ![Project Demo](demo.png)
-*(Replace this line with a screenshot or GIF of your project)*
 
 ---
 
