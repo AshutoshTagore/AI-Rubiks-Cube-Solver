@@ -1,4 +1,5 @@
 # 🧩 AI Rubik's Cube Solver & Visualizer
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20View-brightgreen?style=for-the-badge&logo=vercel)](https://my-rubiks-ai.onrender.com/)
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-Web%20Framework-red?style=for-the-badge&logo=flask)
