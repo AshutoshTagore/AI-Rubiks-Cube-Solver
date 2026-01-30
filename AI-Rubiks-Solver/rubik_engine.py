@@ -98,7 +98,7 @@ class RubiksCube:
                     if val == f: continue
                     elif val == opposites[f]: total_distance += 2
                     else: total_distance += 1
-        return total_distance / 8
+        return total_distance / 4
 
     def solve_astar(self, max_depth=12):
         queue = []
@@ -147,4 +147,5 @@ class RubiksCube:
             solution.append(move)
             solution.append(move)
             
+
         return solution
