@@ -14,7 +14,7 @@ def home():
 def scramble_cube():
     global game
     game = RubiksCube()
-    moves = game.scramble(5) 
+    moves = game.scramble(4) 
     return jsonify({
         "message": "Scrambled",
         "moves_made": moves,
@@ -40,4 +40,5 @@ def solve_fast():
     })
 
 if __name__ == '__main__':
+
     app.run(debug=True)
